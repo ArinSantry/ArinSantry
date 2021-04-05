@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ArinSantry
 - 👀 I’m interested in software engineering and cybersecurity
-- 🌱 I’m currently learning Python, computer security fundamentals, all to get a BS in computer science.
-- 💞️ I’m looking to collaborate on lighter projects. I am in school and looking for an internship.
+- 🌱 I’m currently pursuing a bachelor's degree in computer science
+- 💞️ I’m looking for an internship in software engineering or a similar field for summer 2021
 - 📫 How to reach me: e-santry@onu.edu
 
 <!---
